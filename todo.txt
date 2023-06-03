@@ -1,0 +1,5 @@
+[+] uninstall bootstrap then install tailwind.
+[+] edit Task.tsx component.
+[+] each time the Task re-rendering while activating listbar: pertty or not?
+[+] code react router
+[+] add more functionality to snackbar/toast
